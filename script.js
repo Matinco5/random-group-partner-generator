@@ -34,6 +34,15 @@ let members = [
         nickname: "senator",
         img: "matthews.jpg"
 
+    },
+    {
+        name : "saheed Muktadir oladimeji ",
+        YOE: "6 months",
+        Role: "Front-end Developer",
+        Technologies: "HTML,CSS,JS",
+        nickname: "MukTech",
+        img: "dimeji.jpg"
+
     }
 ]
 
